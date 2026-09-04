@@ -34,7 +34,7 @@ class CodeRunner:
                 capture_output=True,
                 text=True,
                 timeout=self.timeout,
-                cwd="/Users/arcadiamc/Desktop/Cours/A2/Batterie exercice python"
+                cwd="/Users/charles/Desktop/PythonLearningPlatform"
             )
 
             # Parser les résultats JSON
